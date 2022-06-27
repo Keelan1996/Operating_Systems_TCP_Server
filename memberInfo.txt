@@ -1,0 +1,3 @@
+Jill 23 620 cluba 2021/29/12 560.0 Adult Paid
+Jim 55 377 clubk 2020/07/07 770.0 Adult Not
+Jane 46 65 cluba 2021/19/12 460.0 Senior Paid
